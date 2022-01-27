@@ -18,7 +18,9 @@ Controlling the colour of an LED with an IR remote. Based on the button pressed,
 - Jumper Wires
 
 ***Connections :***  
-![IR LED Control](https://user-images.githubusercontent.com/77038120/151207986-da75875e-b54c-46f2-ad2f-af00cab02dce.jpg)
+![IR LED Control](https://user-images.githubusercontent.com/77038120/151207986-da75875e-b54c-46f2-ad2f-af00cab02dce.jpg)  
+
+[Tinkercad Simulation](https://www.tinkercad.com/things/kExMnxM6Vvz)
 
 ***Versions***  
 - v1.0.0 - RGB and White colours with different buttons.
