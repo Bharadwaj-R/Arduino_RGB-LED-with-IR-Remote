@@ -23,7 +23,7 @@ Controlling the colour of an LED with an IR remote. Based on the button pressed,
 [Tinkercad Simulation](https://www.tinkercad.com/things/kExMnxM6Vvz)
 
 ***Versions***  
-- v1.0.0 - RGB and White colours with different buttons.
+- `v1.0.0` - RGB and White colours with different buttons.
 
 ***Motivation Behind the Project :***  
 A different version of this project is given as a task for me during the inductions process for the IoT club of IIIT Trichy. The question was only to turn on and off the LED, but I thought of modifying the circuit a bit more, and include the 4-pin LED.  
